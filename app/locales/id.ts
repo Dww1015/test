@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import { PartialLocaleType } from "./index";
 
 const id: PartialLocaleType = {
-  WIP: "Coming Soon...",
+  // WIP: "Coming Soon...",
   Error: {
     Unauthorized:
       "Akses tidak diizinkan, silakan masukkan kode akses atau masukkan kunci API OpenAI Anda. di halaman [autentikasi](/#/auth) atau di halaman [Pengaturan](/#/settings).",
