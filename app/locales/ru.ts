@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const ru: PartialLocaleType = {
-  WIP: "Скоро...",
+ // WIP: "Скоро...",
   Error: {
     Unauthorized:
       "Несанкционированный доступ. Пожалуйста, введите код доступа на [странице](/#/auth) настроек.",
