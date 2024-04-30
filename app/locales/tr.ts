@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const tr: PartialLocaleType = {
-  WIP: "Çalışma devam ediyor...",
+//  WIP: "Çalışma devam ediyor...",
   Error: {
     Unauthorized:
       "Yetkisiz erişim, lütfen erişim kodunu ayarlar [sayfasından](/#/auth) giriniz.",
