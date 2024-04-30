@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const it: PartialLocaleType = {
-  WIP: "Work in progress...",
+ // WIP: "Work in progress...",
   Error: {
     Unauthorized:
       "Accesso non autorizzato, inserire il codice di accesso nella [pagina](/#/auth) delle impostazioni.",
