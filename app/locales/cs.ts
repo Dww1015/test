@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const cs: PartialLocaleType = {
-  WIP: "V přípravě...",
+ // WIP: "V přípravě...",
   Error: {
     Unauthorized:
       "Neoprávněný přístup, zadejte přístupový kód na [stránce](/#/auth) nastavení.",
