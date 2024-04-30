@@ -5,7 +5,7 @@ import { getClientConfig } from "../config/client";
 const isApp = !!getClientConfig()?.isApp;
 
 const pt: PartialLocaleType = {
-  WIP: "Em breve...",
+ // WIP: "Em breve...",
   Error: {
     Unauthorized: isApp
       ? "Chave API inválida, por favor verifique em [Configurações](/#/settings)."
