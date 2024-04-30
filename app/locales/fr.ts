@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const fr: PartialLocaleType = {
-  WIP: "Prochainement...",
+//  WIP: "Prochainement...",
   Error: {
     Unauthorized:
       "Accès non autorisé, veuillez saisir le code d'accès dans la [page](/#/auth) des paramètres.",
