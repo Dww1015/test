@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const ar: PartialLocaleType = {
-  WIP: "قريبًا...",
+ // WIP: "قريبًا...",
   Error: {
     Unauthorized:
       "غير مصرح بالوصول، يرجى إدخال رمز الوصول [auth](/#/auth) في صفحة المصادقة.",
