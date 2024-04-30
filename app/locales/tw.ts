@@ -4,7 +4,7 @@ import { SubmitKey } from "../store/config";
 const isApp = !!getClientConfig()?.isApp;
 
 const tw = {
-  WIP: "該功能仍在開發中……",
+//  WIP: "該功能仍在開發中……",
   Error: {
     Unauthorized: isApp
       ? "檢測到無效 API Key，請前往[設定](/#/settings)頁檢查 API Key 是否設定正確。"
