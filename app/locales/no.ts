@@ -2,7 +2,7 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const no: PartialLocaleType = {
-  WIP: "Arbeid pågår ...",
+//  WIP: "Arbeid pågår ...",
   Error: {
     Unauthorized:
       "Du har ikke tilgang. [Vennlig oppgi tildelt adgangskode](/#/auth).",
